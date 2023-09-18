@@ -1,0 +1,1 @@
+1. Refazer mas o texto será colocado em uma lista, e as páginas serão contadas pelo método len nessa lista
